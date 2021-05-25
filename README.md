@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WastedAccounts
-- 👀 K8s explorer, SRE chaser, budding developer, fitness enthusiast and most importantly racecar team owner/driver/mechanic. 
-- 📫 How to reach me matthewjaysimpson@gmail.com 
+- 👀 K8s explorer, SRE chaser, budding developer, amature but passionate dirt jumper, fitness enthusiast, racecar team owner/driver/mechanic and most importantly, a dog owner. 
+- 📫 How to reach me matthewjaysimpson@amature but passionate gmail.com 
 
 <!---
 WastedAccounts/WastedAccounts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
